@@ -2043,6 +2043,7 @@ Fri 15 Jun  - 10:00 AM
 
 ## Get the username of the current user
 
+
 **CAVEAT:** Requires `bash` 4.4+
 
 ```shell
